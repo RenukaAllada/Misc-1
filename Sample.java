@@ -23,7 +23,7 @@ class Sample{
 
     /*********************problem-2******************/
     //TC:0(N)
-    //SC:0(1)
+    //SC:0(h)
     class Solution {
         int moves;
         public int distributeCoins(TreeNode root) {
